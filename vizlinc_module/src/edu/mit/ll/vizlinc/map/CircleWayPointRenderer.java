@@ -18,6 +18,8 @@ import org.jdesktop.swingx.mapviewer.WaypointRenderer;
 import edu.mit.ll.vizlinc.components.MapTopComponent;
 import edu.mit.ll.vizlinc.components.PropertiesTopComponent;
 
+/** Added a comment here **/
+
 /**
  * Renders waypoints as circles on the map
  */
